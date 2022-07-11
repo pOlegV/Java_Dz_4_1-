@@ -63,4 +63,5 @@ public class BonusServiceTest {
         // производим проверку (сравниваем ожидаемый и фактический):
         assertEquals(expected, actual);
     }
+
 }
